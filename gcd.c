@@ -6,6 +6,7 @@ int main(){
 int a,b,d,i;
 
 printf("enter two numbers\n");
+//enter the numbers
 scanf("%d/%d",&a,&b);
 
     for(i=a;i>=2;i--)
